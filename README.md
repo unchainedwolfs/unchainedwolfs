@@ -1,5 +1,7 @@
 - 👋 Hi, We are the @unchainedwolfs
 https://theunchainedwolfs.com
+Twitter Account: https://twitter.com/unchainedwolfs
+Discord Invite : http://discord.gg/9qnEEPnt
 is a revolutionary web based NFT roleplaying game launched on the Polygon Network. The core of the game revolves around rewarding players with Oxygen 
 tokens after completing missions and participating in raids.
 They can get additional Wolfs and buy items to increase their overall Attributes. Players can also trade their Wolfs and items on an open marketplace.
